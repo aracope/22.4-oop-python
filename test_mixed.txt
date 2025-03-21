@@ -1,0 +1,13 @@
+# A file with comments, blank lines, and valid words.
+
+# Fruits
+
+apple
+banana
+# tomato
+
+# Veggies
+
+carrot
+# parsnips
+
